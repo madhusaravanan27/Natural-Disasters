@@ -21,11 +21,11 @@ Source: Our World in Data - Natural Disasters
 
 Includes data on the impact of natural disasters on populations over time.
 
-#**Project Overview**:#
+# **Project Overview**:
 
 This project aims to explore the impact of natural disasters across the United States from 2000 to 2020. Through data visualization and analysis, the project examines the frequency, severity, human loss, and economic impact of disasters. Multiple dashboards were designed to offer insights into different aspects of natural disasters, leveraging various data-driven analysis techniques.
 
-#**Dashboards**:#
+# **Dashboards**:
 
 **1. Disaster Analysis**:
 
@@ -53,7 +53,7 @@ Overview:
 
 This dashboard analyzes the economic damage caused by natural disasters in the USA, from 2013 to 2023. It features time-series analyses and interactive maps that illustrate county-wise economic repercussions and highlight the top states and counties most affected by disasters.
 
-#**Key Accomplishments**:#
+# **Key Accomplishments**:
 
 **Time Series Analysis:**
 
@@ -71,6 +71,6 @@ Employed advanced visual techniques to analyze disaster frequencies, human loss,
 
 Developed four comprehensive dashboards using tools like Tableau and Power BI to offer insights into various aspects of disaster impacts.
 
-#**Conclusion**#:
+# **Conclusion**:
 
 This project provides a powerful tool for analyzing the effects of natural disasters on both human lives and the economy across the USA. Through visual analytics, it offers stakeholders the ability to assess the long-term effects of natural disasters and make informed decisions about disaster preparedness, recovery, and policy planning.
