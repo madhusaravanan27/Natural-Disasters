@@ -69,7 +69,7 @@ Employed advanced visual techniques to analyze disaster frequencies, human loss,
 
 - **Interactive Dashboards:**
 
-Developed four comprehensive dashboards using tools like Tableau and Power BI to offer insights into various aspects of disaster impacts.
+Developed four comprehensive dashboards in Tableau to offer insights into various aspects of disaster impacts.
 
 # **Conclusion**:
 
