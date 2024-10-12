@@ -3,19 +3,19 @@
 
 ## **Data Sources**:
 
-**Incident Type Dataset**:
+- **Incident Type Dataset**:
 
 Source: FEMA Disaster Declarations:
 
 Contains information on different types of natural disasters, declaration dates, years, affected counties, and states.
 
-**Economic Damage from Natural Disasters**:
+- **Economic Damage from Natural Disasters**:
 
 Source: Our World in Data - Economic Damage
 
 Provides details on the economic consequences of various natural disasters.
 
-**Natural Disasters Value Dataset**:
+- **Natural Disasters Value Dataset**:
 
 Source: Our World in Data - Natural Disasters
 
@@ -55,19 +55,19 @@ This dashboard analyzes the economic damage caused by natural disasters in the U
 
 # **Key Accomplishments**:
 
-**Time Series Analysis:**
+- **Time Series Analysis:**
 
 Conducted detailed time series analysis of natural disaster occurrences and their economic and human impacts over two decades.
 
-**Geographic Mapping:**
+- **Geographic Mapping:**
 
 Created interactive maps and heatmaps to visualize disaster hotspots, recovery times, and regional patterns.
 
-**Data Visualization:**
+- **Data Visualization:**
 
 Employed advanced visual techniques to analyze disaster frequencies, human loss, and economic consequences.
 
-**Interactive Dashboards:**
+- **Interactive Dashboards:**
 
 Developed four comprehensive dashboards using tools like Tableau and Power BI to offer insights into various aspects of disaster impacts.
 
